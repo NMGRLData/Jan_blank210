@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00026677397203143634,
+        "error": 0.00015071447888371166,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,17 +9,18 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
-        "fn": 278,
+        "fit": "linear",
+        "fn": 277,
         "include_baseline_error": true,
         "n": 280,
         "outlier_excluded": [
             224,
+            243,
             191
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.006855147880997604
+        "value": 0.006979901546009167
     },
     "Ar37": {
         "error": 0.0037962403628256968,
@@ -57,10 +58,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.03156851642895726
+        "value": 0.03156851642895727
     },
     "Ar39": {
-        "error": 0.012907276817240045,
+        "error": 0.007407161124749929,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -69,17 +70,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 280,
         "include_baseline_error": true,
         "n": 280,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.10056225855049536
+        "value": 0.09661307223291477
     },
     "Ar40": {
-        "error": 0.009575676191140251,
+        "error": 0.009575676191140643,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -95,7 +96,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.5993818621540656
+        "value": 1.5993818621540288
     },
     "Ar41": {
         "error": 0.03493696545640032,
