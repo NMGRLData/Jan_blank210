@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00023174582631343038,
+        "error": 0.00023174582631343036,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -16,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.009390925234805378
+        "value": 0.009390925234805383
     },
     "Ar37": {
         "error": 0.0048131186612943595,
@@ -37,7 +37,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.023855394460562413
+        "value": -0.023855394460562424
     },
     "Ar38": {
         "error": 0.004377197317721678,
@@ -56,10 +56,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.03568691778954967
+        "value": 0.03568691778954969
     },
     "Ar39": {
-        "error": 0.011087172754541788,
+        "error": 0.011087172754541786,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -75,10 +75,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.03546412665039346
+        "value": 0.03546412665039348
     },
     "Ar40": {
-        "error": 0.010813814470622178,
+        "error": 0.016449678248241402,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -87,14 +87,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.4656223063782785
+        "value": 2.3082024065544324
     },
     "Ar41": {
         "error": 0.04249414549159492,
